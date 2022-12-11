@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **info@kaanduzbastilar.net**
 
-- Checkout my Google Play Store [Kaan Düzbastılar]([https://kaanduzbastilar.net/](https://play.google.com/store/apps/developer?id=Kaan+D%C3%BCzbast%C4%B1lar&gl=TR))
+- ✔️ Checkout my Google Play Store [Kaan Düzbastılar](https://play.google.com/store/apps/developer?id=Kaan+D%C3%BCzbast%C4%B1lar&gl=TR)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
