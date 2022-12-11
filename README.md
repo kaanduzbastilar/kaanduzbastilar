@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **info@kaanduzbastilar.net**
 
+- Checkout my Google Play Store [Kaan Düzbastılar]([https://kaanduzbastilar.net/](https://play.google.com/store/apps/developer?id=Kaan+D%C3%BCzbast%C4%B1lar&gl=TR))
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kaanduzbastilar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaanduzbastilar" height="30" width="40" /></a>
